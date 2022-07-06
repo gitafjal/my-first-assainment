@@ -60,6 +60,13 @@ h2 {
 }
 
 
+.flexible {
+    display: flex;
+    margin: 50px;
+    padding: auto;
+
+}
+
 .flexible-container {
     display: flex;
     margin: 50px;
