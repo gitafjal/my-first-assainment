@@ -1,0 +1,90 @@
+.head-one {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: 1850px 1650px;
+    background-attachment: scroll;
+
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.boro-vai {
+    font-size: 80px;
+    text-align: center;
+    color: rgb(248, 244, 244);
+}
+
+.boro-vvai {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(248, 244, 244);
+}
+
+.btn {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.link-button {
+    text-decoration-line: navajowhite;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: rgb(121, 188, 247);
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    size-adjust: 40px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.dote {
+    font-size: 80px;
+    text-align: center;
+}
+
+.dote1 {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(26, 100, 165);
+}
+
+.taka {
+    text-align: center;
+}
+
+
+.flexible-container {
+    display: flex;
+    margin: 50px;
+
+}
+
+.half-width {
+    margin: 3%;
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 5px gray;
+    background-color: aqua;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(2, 2, 2);
+}
+
+.last-font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(252, 5, 5);
+}
+
+.choto {
+    color: rgb(245, 238, 238);
+}
